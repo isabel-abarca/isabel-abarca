@@ -2,6 +2,8 @@
 
 ![Header](./github-header-banner.png)
 
+<img width="1544" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/ebcdcbfc-2e2f-4c07-8da4-53e00a4b884e" />
+
 <!--
 **isabel-abarca/isabel-abarca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -9,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on XYZ. This is a test!
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...<img width="1544" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/ebcdcbfc-2e2f-4c07-8da4-53e00a4b884e" />
+- 👯 I’m looking to collaborate on ...
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
