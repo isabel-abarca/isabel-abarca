@@ -1,7 +1,3 @@
-## Hi there 👋
-
-![Header](./github-header-banner.png)
-
 <img width="1544" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/ebcdcbfc-2e2f-4c07-8da4-53e00a4b884e" />
 
 <!--
