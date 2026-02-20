@@ -31,8 +31,8 @@
 </p>
 
 
-## 🛠️ Languages & Tools
-### Main
+## 𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 𝒶𝓃𝒹 𝒯𝑜𝑜𝓁𝓈
+#### Main
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,cpp,c,kotlin" />
@@ -40,7 +40,6 @@
 </p>
 
 ### For Fun
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sqlite,r" />
