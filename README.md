@@ -32,9 +32,13 @@
 
 
 ## 𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 𝒶𝓃𝒹 𝒯𝑜𝑜𝓁𝓈
+<div style="text-align: center;">
+
 | Main      | Fun | Tools |
 | ----------- | ----------- | ----------- |
 | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,java,cpp,c,kotlin" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,sqlite,r" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vim,git,figma,vscode,androidstudio" /></a></p> |
+
+</div>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNxeDdpbHU1cjY3NWF2bG53MWl2ZTQyOXJya3E5MXdyZTAwaXFnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3rgXBHrMCMTJsdc6C4/giphy.gif" alt="Test" width="100%" />
 
