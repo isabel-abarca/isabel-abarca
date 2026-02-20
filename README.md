@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Isabel%20Abarca&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=fsdfsd&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Isabel%20Abarca&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=iz rlly cool XD&descSize=18&descAlignY=55&textBg=false"/>
 
 **Thanks for visiting my page!** I'm Isabel Abarca, a junior at the University of Illinois Chicago majoring in Computer Science with a concentration in Software Engineering. I'm currently learning how to create full-stack websites and apps but ultimately aspire to work in the Automotive & Robotics industry. I grew up working on robots and want to continue involving myself in the evolving technology.
 
