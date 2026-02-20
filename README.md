@@ -2,17 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Isabel%20Abarca&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=fsdfsd&descSize=18&descAlignY=55&textBg=false"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
+**Thanks for visiting my page!** I'm Isabel Abarca, a junior at the University of Illinois Chicago majoring in Computer Science with a concentration in Software Engineering. I'm currently learning how to create full-stack websites and apps but ultimately aspire to work in the Automotive & Robotics industry. I grew up working on robots and want to continue involving myself in the evolving technology.
 
-## 📌 About Me
-- I'm currently learning-
-- I aspire to-
-- Let's create together!
+In my free time, you can always find me either drawing, gaming, or mentoring a local Chicago FIRST Robotics Compeititon team. I'm actually creating a personal webpage to showcase my artwork :3 so stay tuned.
 
-## 🧠 My Focus Areas
-- Web Development
-- App Development
+Feel free to send me a message if you ever want to collaborate!
+
+## Focusing On ⋆˚✿˖°
+- Web & App Development
 - Embedded Software
+- XRP Python Class Curriculum
 
 ## My Stats ⋆˚✿˖°
 <p align="center">
