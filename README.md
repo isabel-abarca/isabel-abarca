@@ -15,14 +15,12 @@
 - I aspire to-
 - Let's create together!
 
-
 ## 🧠 My Focus Areas
 - Web Development
 - App Development
 - Embedded Software
 
-
-## 📊 GitHub Stats & Trophies
+## My Stats ⋆˚✿˖°
 <p align="center">
   <a href="https://github.com/isabel-abarca">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=isabel-abarca&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="isabel-abarca's GitHub Stats" />
@@ -30,19 +28,12 @@
   <img src="https://streak-stats.demolab.com/?user=isabel-abarca&theme=dracula&hide_border=true&cache_seconds=86400" alt="isabel-abarca's GitHub Streak" width="49%" />
 </p>
 
-
-## 𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 𝒶𝓃𝒹 𝒯𝑜𝑜𝓁𝓈
-<!-- <div style="text-align: center;"> -->
-
+## How I Tinker ⋆˚✿˖°
 | Major | Minor | Tools |
 | ----------- | ----------- | ----------- |
 | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,java,cpp,c,kotlin" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,sqlite,r" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vim,git,figma,vscode,androidstudio" /></a></p> |
 
-<!-- </div> -->
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNxeDdpbHU1cjY3NWF2bG53MWl2ZTQyOXJya3E5MXdyZTAwaXFnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3rgXBHrMCMTJsdc6C4/giphy.gif" alt="Test" width="100%" />
-
-## 🔗 Connect with Me
+## Wanna Connect? ⋆˚✿˖°
 <p align="center"><a href="https://www.linkedin.com/in/isabel-j-abarca/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:isabar404@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <picture>
