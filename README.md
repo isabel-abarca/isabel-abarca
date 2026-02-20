@@ -32,6 +32,15 @@
 
 
 ## 𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 𝒶𝓃𝒹 𝒯𝑜𝑜𝓁𝓈
+| Main      | Description |
+| ----------- | ----------- |
+| <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,c,kotlin" />
+  </a>
+</p>      | Title       |
+
+
 #### Main
 <p align="center">
   <a href="https://skillicons.dev">
@@ -39,14 +48,14 @@
   </a>
 </p>
 
-### For Fun
+#### For Fun
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sqlite,r" />
   </a>
 </p>
 
-### Tools
+#### Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vim,git,vscode,figma,androidstudio" />
