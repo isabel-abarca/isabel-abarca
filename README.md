@@ -53,6 +53,8 @@
   </a>
 </p>
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNxeDdpbHU1cjY3NWF2bG53MWl2ZTQyOXJya3E5MXdyZTAwaXFnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3rgXBHrMCMTJsdc6C4/giphy.gif" alt="Test" width="100%" />
+
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/isabel-j-abarca/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:isabar404@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
