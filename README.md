@@ -34,11 +34,8 @@
 ## 𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 𝒶𝓃𝒹 𝒯𝑜𝑜𝓁𝓈
 | Main      | Description |
 | ----------- | ----------- |
-| <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,c,kotlin" />
-  </a>
-</p>      | Title       |
+| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,java,cpp,c,kotlin" /></a></p> | Title |
+| ----------- | ----------- |
 
 
 #### Main
