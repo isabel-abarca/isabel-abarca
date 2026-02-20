@@ -6,11 +6,6 @@ In my free time, you can always find me either drawing, gaming, or mentoring a l
 
 Feel free to send me a message if you ever want to collaborate!
 
-                            ╱|、  ?
-                          (˚ˎ 。7  
-                           |、˜〵          
-                          じしˍ,)ノ
-
 ## Focusing On ⋆˚✿˖°
 - Web & App Development
 - Embedded Software
