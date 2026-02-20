@@ -1,6 +1,4 @@
-<!-- <img width="1544" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/ebcdcbfc-2e2f-4c07-8da4-53e00a4b884e" /> -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Isabel%20Abarca&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=fsdfsd&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Isabel%20Abarca&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=fsdfsd&descSize=18&descAlignY=55&textBg=false"/>
 
 **Thanks for visiting my page!** I'm Isabel Abarca, a junior at the University of Illinois Chicago majoring in Computer Science with a concentration in Software Engineering. I'm currently learning how to create full-stack websites and apps but ultimately aspire to work in the Automotive & Robotics industry. I grew up working on robots and want to continue involving myself in the evolving technology.
 
@@ -28,12 +26,6 @@ Feel free to send me a message if you ever want to collaborate!
 
 ## Message Me ⋆˚✿˖°
 <p align="center"><a href="https://www.linkedin.com/in/isabel-j-abarca/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:isabar404@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-</picture>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
