@@ -32,25 +32,13 @@
 
 
 ## 𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 𝒶𝓃𝒹 𝒯𝑜𝑜𝓁𝓈
-| Main      | Description |
-| ----------- | ----------- |
-| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,java,cpp,c,kotlin" /></a></p> | Title |
-| ----------- | ----------- |
-
-
-#### Main
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,c,kotlin" />
-  </a>
-</p>
+| Main      | For Fun | Tools |
+| ----------- | ----------- | ----------- |
+| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,java,cpp,c,kotlin" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,sqlite,r" /></a></p> |  Title |
+| ----------- | ----------- | ----------- |
 
 #### For Fun
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sqlite,r" />
-  </a>
-</p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,sqlite,r" /></a></p>
 
 #### Tools
 <p align="center">
